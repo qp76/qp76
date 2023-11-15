@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @qp76 or Nord
+- 📫 How to reach me ...
+- ### discord username
+- @87q
+- ### ThailandsCodes Invite Link
+- discord.gg/thailandcodes
