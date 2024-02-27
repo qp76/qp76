@@ -15,17 +15,17 @@
 <br>
 
 ##  **About me**
-**Hello, I'm Kevin, A 19 y.o from Algeria, specifically in Js.**
+**Hello, I'm Nord, A 19 y.o from Algeria, specifically in Js.**
 
 - Favorite games: PUBG Mobile, Nebulous.io .
 - Discord servers:
-  - [Diamond Host]() (1.3k+)
-  - [ThailandCodes]() (3k+)
+  - [Diamond Host](https://discord.com/invite/diamond-host-1158175630492454944) (1.3k+)
+  - [ThailandCodes](https://discord.com/invite/thailandcodes-tm-1015686158019203072) (3k+)
 
 ---
 <p><strong>MY DISCORD</strong></p>
 
-![Discord](https://discord.c99.nl/widget/theme-1/258244908970672128.png).
+![Discord](https://discord.c99.nl/widget/theme-1/258244908970672128.png)
 ---
 <p><strong>SKILLS</strong></p>
 
