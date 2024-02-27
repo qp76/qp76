@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&weight=500&size=25&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&height=60&lines=Welcome+To+GitHub+profile.;Discord+Bots+Developer;Front-End+Developer" alt="Typing SVG" /></a>
-    <p> V<strong>a</strong>mpire <strong>o</strong>n To<strong>p</strong>🧛🦇</p>
+    <p> Thailand<strong>C</strong>odes</p>
   <div id="badges">
 <a href="https://discord.com/users/258244908970672128">
     <img src="https://img.shields.io/badge/discord-Red?style=for-the-badge&logo=discord&labelColor=black&color=%23ff0000" alt="discord"/>
