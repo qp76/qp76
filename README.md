@@ -25,7 +25,7 @@
 ---
 <p><strong>MY DISCORD</strong></p>
 
-![Discord](https://discord.c99.nl/widget/theme-2/258244908970672128.png)
+![Discord](https://discord.c99.nl/widget/theme-1/258244908970672128.png).
 ---
 <p><strong>SKILLS</strong></p>
 
