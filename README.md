@@ -19,7 +19,6 @@
 
 - Favorite games: PUBG Mobile, Nebulous.io .
 - Discord servers:
-  - [Diamond Host](https://discord.com/invite/diamond-host-1158175630492454944) (1.3k+)
   - [ThailandCodes](https://discord.com/invite/thailandcodes-tm-1015686158019203072) (3k+)
 
 ---
