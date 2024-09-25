@@ -1,34 +1,76 @@
-<h1 align="center">Welcome 👋, I'm Nord</h1>
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
-<div id="header" align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&weight=500&size=25&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&height=60&lines=Welcome+To+GitHub+profile.;Discord+Bots+Developer;Front-End+Developer" alt="Typing SVG" /></a>
-    <p> Thailand<strong>C</strong>odes</p>
-  <div id="badges">
-<a href="https://discord.com/users/258244908970672128">
-    <img src="https://img.shields.io/badge/discord-Red?style=for-the-badge&logo=discord&labelColor=black&color=%23ff0000" alt="discord"/>
-  </a>
-  <a href="https://www.youtube.com/thailandcodes">
-    <img src="https://img.shields.io/badge/youtube-Red?style=for-the-badge&logo=Youtube&logoColor=red&labelColor=black&color=%23ff0000" alt="Youtube"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&weight=500&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Discord+Bots+Creator;JavaScript+Enthusiast;Open-Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
+
+---
+
+<div align="center">
+  <h2>About Me</h2>
+  <p>
+    <strong>Hello!</strong> I'm <b>Nord</b>, a 19-year-old passionate developer from Algeria.<br>
+    Specialized in <b>JavaScript</b> with a focus on developing <b>Discord Bots</b> and <b>Front-End Development</b>.
+  </p>
 </div>
-<br>
-
-##  **About me**
-**Hello, I'm Nord, A 19 y.o from Algeria, specifically in Js.**
-
-- Favorite games: PUBG Mobile, Nebulous.io .
-- Discord servers:
-  - [ThailandCodes](https://discord.com/invite/thailandcodes-tm-1015686158019203072) (3k+)
 
 ---
-<p><strong>MY DISCORD</strong></p>
 
-![Discord](https://discord.c99.nl/widget/theme-1/258244908970672128.png)
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <p>
+    <a href="https://discord.com/users/258244908970672128">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <a href="https://www.youtube.com/thailandcodes">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+  </p>
+</div>
+
 ---
-<p><strong>SKILLS</strong></p>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,discordjs,discord,vscode,mongodb&perline=7)
-<br>
-## Most Used Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VampireKevin&show_icons=true&theme=dark&locale=en&layout=compact" alt="VampireKevin" /></p>
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=qp76&show_icons=true&theme=radical&hide_border=true&icon_color=5865F2&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=qp76&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qp76&theme=github_dark" alt="Profile Summary" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>🛠️ Skills</h2>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,discord,react,vscode,mongodb,git&theme=dark" alt="Skills" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>📈 Most Used Languages</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qp76&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF" alt="Top Languages" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>👥 Join My Discord Community</h2>
+  <p>
+    <a href="https://discord.com/invite/thailandcodes-tm-1015686158019203072">
+      <img src="https://img.shields.io/discord/1015686158019203072?label=Join%20ThailandCodes&logo=discord&color=5865F2&style=for-the-badge" alt="Discord Server" />
+    </a>
+  </p>
+  <img src="https://discord.c99.nl/widget/theme-3/258244908970672128.png" alt="Discord Widget" />
+</div>
