@@ -72,5 +72,5 @@
       <img src="https://img.shields.io/discord/1015686158019203072?label=Join%20ThailandCodes&logo=discord&color=5865F2&style=for-the-badge" alt="Discord Server" />
     </a>
   </p>
-  <img src="https://discord.c99.nl/widget/theme-3/258244908970672128.png" alt="Discord Widget" />
+  <img src="https://discord.c99.nl/widget/theme-3/861200726201860106.png" alt="Discord Widget" />
 </div>
