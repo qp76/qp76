@@ -6,30 +6,21 @@
   </a>
 </div>
 
----
-
 <div align="center">
-  <h2>About Me</h2>
-  <p>
-    Hello, I’m <strong>Nord</strong>, a developer based in Algeria.<br>
-    I specialize in <strong>JavaScript development</strong> with a strong focus on 
-    <strong>Discord bot architecture</strong> and modern <strong>front-end applications</strong>.<br>
-    I am passionate about building scalable, high-performance solutions and contributing to open-source projects.
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
-  <h2>Professional Links</h2>
+  <h2>About Me</h2>
   <p>
-    <a href="https://discord.com/users/258244908970672128">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="https://www.youtube.com/thailandcodes">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
+    Hello, I'm <strong>Nord</strong>, a developer based in Algeria.<br>
+    I specialize in <strong>JavaScript development</strong> with a strong focus on 
+    <strong>Discord bot architecture</strong> and modern <strong>front-end applications</strong>.<br>
+    I am passionate about building scalable, high-performance solutions and contributing to open-source projects.
   </p>
+  <img src="https://komarev.com/ghpvc/?username=qp76&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
@@ -44,6 +35,15 @@
   </p>
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qp76&theme=github_dark" alt="Profile Summary" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>Achievements</h2>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=qp76&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
   </p>
 </div>
 
@@ -68,11 +68,12 @@
 ---
 
 <div align="center">
-  <h2>Community</h2>
+  <h2>Activity Graph</h2>
   <p>
-    <a href="https://discord.gg/diamond-host-1158175630492454944">
-      <img src="https://img.shields.io/discord/1015686158019203072?label=Join%20Diamond-Host&logo=discord&style=for-the-badge" alt="Discord Server" />
-    </a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=qp76&theme=react-dark&hide_border=true" alt="Activity Graph" />
   </p>
-  <img src="https://discord.c99.nl/widget/theme-3/861200726201860106.png" alt="Discord Widget" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
