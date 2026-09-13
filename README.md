@@ -15,28 +15,6 @@
 
 <br/>
 
-## About Me
-
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-
-```yaml
-Developer:
-  name: "Nord"
-  location: "Algeria"
-  role: "Full Stack Developer"
-  focus:
-    - Backend architecture & API design
-    - Discord bot ecosystems at scale
-    - Modern front-end applications
-    - Database design & optimization
-  currently:
-    building: "Scalable JavaScript/TypeScript systems"
-    learning: "Advanced system design & cloud infrastructure"
-  philosophy: "Clean code, real performance, open source"
-```
-
-<br clear="right"/>
-
 ---
 
 ## Tech Stack
@@ -88,14 +66,6 @@ Developer:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=qp76&hide_border=true&area=true&bg_color=000000&color=ffffff&line=cccccc&point=ffffff" alt="Activity Graph" width="100%"/>
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qp76&theme=dark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
